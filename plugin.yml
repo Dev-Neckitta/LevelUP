@@ -1,0 +1,16 @@
+name: LevelUP
+main: LevelUP\Main
+api: 3.0.0
+version: 1.0.0
+author: Neckitta <\>
+
+commands:
+ status:
+  description: LevelUP by Neckitta <\>
+  default: true
+ upgrade:
+  description: LevelUP upgraded !
+  default: true
+  aliases: [lvlupgrade, upgradelvl, lvl, lvlup]
+ reloadMysql:
+  default: false
