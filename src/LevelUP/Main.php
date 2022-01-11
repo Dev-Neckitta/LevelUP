@@ -1,4 +1,4 @@
-<? namespace LevelUP;
+<? namespace Neckitta;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\event\entity\EntityDeathEvent;
 use pocketmine\utils\Config;
