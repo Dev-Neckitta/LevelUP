@@ -1,0 +1,10 @@
+#You can reload MySQL on Plugin.yml like make it on
+
+#MySQL settings for waterdog
+
+host: host
+username: username
+password: passwords
+table: levels
+
+#CopyRight 2022-2023
