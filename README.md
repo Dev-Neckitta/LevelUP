@@ -5,7 +5,9 @@
 # Features
 
 ● Maybe i will upgrade it to api 4.0.0 
+
 ● delete all commands and make it Auto LevelUP
+
 ● add more information on confing like edit color level exp
 
 # Discorď 
